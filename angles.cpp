@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-	/*string city1, city2;
+	string city1, city2;
 	cout << "Enter 2 cities\n";
 	getline(cin, city1);
 	getline(cin, city2);
@@ -23,7 +23,7 @@ int main(){
 			exit(0);
 		}
 		i++;
-	}*/
+	}
 
 	const double PI = 3.141592653;
 	double deg = 30;
